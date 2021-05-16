@@ -1,4 +1,4 @@
-# Aparecida Nutrição
+# Aparecida Nutricionista
 
 Projeto realizado no curso Oracle One Lógica de Programação - Alura.
 
